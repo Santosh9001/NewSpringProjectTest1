@@ -1,4 +1,4 @@
-package com.websystique.springmvc.model;
+package com.santosh.springmvc.model;
 
 public class Login {
 

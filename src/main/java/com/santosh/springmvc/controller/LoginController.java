@@ -1,4 +1,4 @@
-package com.websystique.springmvc.controller;
+package com.santosh.springmvc.controller;
 
 import javax.validation.Valid;
 
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.websystique.springmvc.model.Login;
+import com.santosh.springmvc.model.Login;
 
 @Controller
 public class LoginController {
